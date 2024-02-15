@@ -1,5 +1,8 @@
+![logo](https://github.com/ekatagupta/ekatagupta/blob/main/Blue%20White%20Modern%20Professional%20Business%20Development%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ekata Gupta</h1>
 <h3 align="center">A passionate Front End Web developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekatagupta&label=Profile%20views&color=0e75b6&style=flat" alt="ekatagupta" /> </p>
 
